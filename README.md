@@ -26,6 +26,7 @@ This project is designed strictly for educational use, engine research, and tool
 ## Requirements
 
 * Windows 10/11
+* A non flagged injector.
 * Basic understanding of Unreal Engine internals recommended
 
 ## Installation
